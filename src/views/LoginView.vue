@@ -108,10 +108,4 @@ export default {
 .serif {
   font-family: serif;
 }
-
-.bg-image {
-  background-image: url(D:\projeksmk\ujianreal\public\img\wave.png);
-  background-size: cover;
-  background-repeat: no-repeat;
-}
 </style>
